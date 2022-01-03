@@ -15,13 +15,9 @@ As a firmware, it is proposed to use:
 <table>
 <tr>
 <td width="50%">
-
-##### Top
 <img src="./2530_v1/images/top.png">
 </td>
 <td>
-
-##### Bottom
 <img src="./2530_v1/images/bottom.png">
 </td>
 </tr>
