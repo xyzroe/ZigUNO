@@ -1,5 +1,3 @@
-# ZigUNO
-
 <div align="center"><img src="./2530_v1/photos/main.png"></div>
 
 ZigUNO is a development board for creating DIY Zigbee devices based on Ebyte E18-MS1 module (CC2530)
