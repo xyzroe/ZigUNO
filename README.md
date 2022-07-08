@@ -6,18 +6,28 @@ ZigUNO is a development board for creating DIY Zigbee devices based on Ebyte E18
 
 Physically, the board is compatible with all shields of the Uno form factor. Finally you can use countless old Arduino shields 🤣
 
-<div align="center"><a href="https://certification.oshwa.org/ua000001.html">
-ZigUNO is certified open source hardware project<img width="20%" src="OSHWA.png">
-</a></div>
-
 As a firmware, it is proposed to use:
 1. Zigbee configurable firmware [PTVO](https://ptvo.info) 🚀
-2. Develop custom one using [DIYRuZ](https://diyruz.github.io/) projects as examples
+2. Develop your own using [ZigUP](https://github.com/formtapez/ZigUP) or one of the various [DIYRuZ](https://diyruz.github.io/) projects as examples
+
+
+#### Usefull links
+- A beginner's guide to using PTVO is available on [Habr](https://habr.com/en/post/581568/) *(in russian)*
+- A beginner's guide to developing your own Zigbee firmware  is available on [Habr](https://habr.com/ru/company/iobroker/blog/495926/) *(in russian)*
+- A complete guide showing how to install IAR to start developing your own firmware is available on [ZigDevWiki](https://zigdevwiki.github.io/Begin/IAR_install/)
+  
+    
+  
+<div align="center">
+<img width="20%" alt="OSHWA UID UA000001" src="OSHWA.png"><br>
+<a href="https://certification.oshwa.org/ua000001.html">
+ZigUNO is certified open source hardware project
+
+</a></div>
 
 ### Overview
 
 #### v1.5 (Jun 2022)
-
 <div align="center">
 <img width="45%" src="./2530_v1.5/images/top.png">
 <img width="45%" src="./2530_v1.5/images/bottom.png">
