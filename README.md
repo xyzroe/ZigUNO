@@ -89,6 +89,9 @@ ZigUNO is certified open source hardware project
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xyzroe)
 
 <br>  
+
+[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)  
+<br>  
 ZigUNO is licensed under the
 
 [GNU General Public License v3.0](https://github.com/xyzroe/ZigUNO/blob/main/LICENSE)
