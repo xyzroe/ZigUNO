@@ -6,6 +6,10 @@ ZigUNO is a development board for creating DIY Zigbee devices based on Ebyte E18
 
 Physically, the board is compatible with all shields of the Uno form factor. Finally you can use countless old Arduino shields 🤣
 
+<div align="center"><a href="https://certification.oshwa.org/ua000001.html">
+ZigUNO is certified open source hardware project<img width="20%" src="OSHWA.png">
+</a></div>
+
 As a firmware, it is proposed to use:
 1. Zigbee configurable firmware [PTVO](https://ptvo.info) 🚀
 2. Develop custom one using [DIYRuZ](https://diyruz.github.io/) projects as examples
@@ -13,16 +17,11 @@ As a firmware, it is proposed to use:
 ### Overview
 
 #### v1.5 (Jun 2022)
-<table>
-<tr>
-<td width="50%">
-<img src="./2530_v1.5/images/top.png">
-</td>
-<td>
-<img src="./2530_v1.5/images/bottom.png">
-</td>
-</tr>
-</table>
+
+<div align="center">
+<img width="45%" src="./2530_v1.5/images/top.png">
+<img width="45%" src="./2530_v1.5/images/bottom.png">
+</div>
 
 **Version 1.5 differences:**
 - Type C instead of micro usb, keeping up with the times 🤩
@@ -34,19 +33,15 @@ As a firmware, it is proposed to use:
 *Scheme is the same. Gerber files will be uploaded after the tests. Photo too.*
 
 #### v1.0
-<table>
-<tr>
-<td width="50%">
-<img src="./2530_v1/images/top.png">
-</td>
-<td>
-<img src="./2530_v1/images/bottom.png">
-</td>
-</tr>
-</table>
+<div align="center">
+<img width="39.6%" src="./2530_v1/images/top.png">
+<img width="40%" src="./2530_v1/images/bottom.png">
+</div>
 
 ### Pinout
-<div align="center"><img src="./2530_v1/images/pinout.png"></div>
+<div align="center">
+<img src="./2530_v1/images/pinout.png">
+</div>
 
 ### Photos
 <table>
@@ -76,16 +71,10 @@ As a firmware, it is proposed to use:
 [BOM](./2530_v1/files/BOM_ZigUNO.csv)
 
 ### Where to buy?
-<table>
-<tr>
-<td width="50%">
+
 <a href="https://www.tindie.com/stores/mind/?ref=offsite_badges&utm_source=sellers_xyzroe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" height="120"></a>
-</td>
-<td>
+
 <a href="https://mind.in.ua/"><img src="https://static.tildacdn.com/tild3433-3934-4565-b362-386238366331/logo_full.png" alt="Go to mind.in.ua" height="120"></a>
-</td>
-</tr>
-</table>
 
 
 ### Like ♥️?
