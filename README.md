@@ -1,4 +1,4 @@
-<div align="center"><img src="./2530_v1/photos/main.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/photos/main.png"></div>
 
 ZigUNO is a development board for creating DIY Zigbee devices based on Ebyte E18-MS1 module (CC2530)
 
@@ -13,22 +13,21 @@ As a firmware, it is proposed to use:
 - A beginner's guide to using PTVO is available on [Habr](https://habr.com/en/post/581568/) *(in russian)*
 - A beginner's guide to developing your own Zigbee firmware  is available on [Habr](https://habr.com/ru/company/iobroker/blog/495926/) *(in russian)*
 - A complete guide showing how to install IAR to start developing your own firmware is available on [ZigDevWiki](https://zigdevwiki.github.io/Begin/IAR_install/)
-  
-    
-  
-<div align="center">
-<img width="20%" alt="OSHWA UID UA000001" src="OSHWA.png"><br>
-<a href="https://certification.oshwa.org/ua000001.html">
-ZigUNO is certified open source hardware project
 
+
+
+<div align="center">
+<a href="https://certification.oshwa.org/ua000001.html">
+<img width="20%" alt="OSHWA UID UA000001" src="https://github.com/xyzroe/ZigUNO/raw/main/OSHWA.png"><br>
+ZigUNO is certified open source hardware project
 </a></div>
 
 ### Overview
 
 #### v1.5 (Jun 2022)
 <div align="center">
-<img width="45%" src="./2530_v1.5/images/top.png">
-<img width="45%" src="./2530_v1.5/images/bottom.png">
+<img width="45%" src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1.5/images/top.png">
+<img width="45%" src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1.5/images/bottom.png">
 </div>
 
 **Version 1.5 differences:**
@@ -42,37 +41,37 @@ ZigUNO is certified open source hardware project
 
 #### v1.0
 <div align="center">
-<img width="39.6%" src="./2530_v1/images/top.png">
-<img width="40%" src="./2530_v1/images/bottom.png">
+<img width="39.6%" src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/images/top.png">
+<img width="40%" src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/images/bottom.png">
 </div>
 
 ### Pinout
 <div align="center">
-<img src="./2530_v1/images/pinout.png">
+<img src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/images/pinout.png">
 </div>
 
 ### Photos
 <table>
 <tr>
 <td width="50%">
-<img src="./2530_v1/photos/top.png">
+<img src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/photos/top.png">
 </td>
 <td>
-<img src="./2530_v1/photos/bottom.png">
+<img src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/photos/bottom.png">
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="./2530_v1/photos/shields.png">
+<img src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/photos/shields.png">
 </td>
 <td>
-<img src="./2530_v1/photos/relays.png">
+<img src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/photos/relays.png">
 </td>
 </tr>
 </table>
 
 ### Schematic
-<div align="center"><img src="./2530_v1/files/Schematic_ZigUNO.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/xyzroe/ZigUNO/main/2530_v1/files/Schematic_ZigUNO.png"></div>
 
 ### Gerber & BOM
 [Gerber](./2530_v1/files/Gerber_ZigUNO.zip)  
@@ -94,4 +93,4 @@ ZigUNO is certified open source hardware project
 <br>  
 ZigUNO is licensed under the
 
-[GNU General Public License v3.0](https://github.com/xyzroe/ZigUNO/blob/main/LICENSE)
+[GNU General Public License v3.0](https://raw.githubusercontent.com/xyzroe/ZigUNO/main/LICENSE)
