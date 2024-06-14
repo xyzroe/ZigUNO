@@ -23,7 +23,7 @@ As a firmware, it is proposed to use:
 
 <div align="center">
 <a href="https://certification.oshwa.org/ua000001.html">
-<img width="20%" alt="OSHWA UID UA000001" src="https://github.com/xyzroe/ZigUNO/raw/main/OSHWA.png"><br>
+<img width="40%" alt="OSHWA UID UA000001" src="https://github.com/xyzroe/ZigUNO/raw/main/OSHWA.png"><br>
 ZigUNO is certified open source hardware project
 </a></div>
 
@@ -85,9 +85,6 @@ ZigUNO is certified open source hardware project
 ### Where to buy?
 
 <a href="https://www.tindie.com/stores/mind/?ref=offsite_badges&utm_source=sellers_xyzroe&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" height="120"></a>
-
-<a href="https://mind.in.ua/"><img src="https://static.tildacdn.com/tild3433-3934-4565-b362-386238366331/logo_full.png" alt="Go to mind.in.ua" height="120"></a>
-
 
 ### Like ♥️?
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xyzroe)
